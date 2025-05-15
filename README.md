@@ -49,4 +49,7 @@ This interactive dashboard reveals **Top-Selling Pizzas**, **Revenue Trends**, a
 
 ---
 
+## Snapshot of Dashboard
+
+
 
