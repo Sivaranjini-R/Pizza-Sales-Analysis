@@ -51,5 +51,5 @@ This interactive dashboard reveals **Top-Selling Pizzas**, **Revenue Trends**, a
 
 ## Snapshot of Dashboard
 
-
+![Image](https://github.com/user-attachments/assets/bf8aef44-f4c1-4a6e-b382-50491c274d0e)
 
